@@ -1,0 +1,1 @@
+ollama create -f Modelfile aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf
